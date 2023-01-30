@@ -1,7 +1,7 @@
 package = "demorock"
 version = "1.0-1"
 source = {
-   url = "..."
+   url = "git://github.com/Amanktkn/demorock"
 }
 description = {
    summary = "Demo for creating my own rock",
