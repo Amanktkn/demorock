@@ -1,7 +1,8 @@
 package = "demorock"
 version = "1.0-1"
 source = {
-   url = "file:///home/aman/demorock/"
+	url = "https://github.com/Amanktkn/demorock",
+	tag = "scm"
 }
 description = {
    summary = "Demo for creating my own rock",
