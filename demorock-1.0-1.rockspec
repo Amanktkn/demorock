@@ -1,7 +1,7 @@
 package = "demorock"
 version = "1.0-1"
 source = {
-   url = "git://github.com/Amanktkn/demorock"
+   url = "file:///home/aman/demorock/"
 }
 description = {
    summary = "Demo for creating my own rock",
@@ -14,7 +14,7 @@ description = {
 build = {
 	type = "builtin",
 	modules = {
-		["a"] = "src/a.lua",
-		["b"] = "src/b.lua"
+		a = "src/a.lua",
+		b = "src/b.lua"
 	}
 }
